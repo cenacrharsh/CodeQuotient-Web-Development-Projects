@@ -2,5 +2,5 @@
 
 | Project      | GitHub Repo | Live Link     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| ToDo App      | [GitHub](https://github.com/cenacrharsh/todo-app-cq)       | [ToDo App](https://cenacrharsh.github.io/todo-app-cq/)   |
 | Paragraph   | Text        | And more      |
