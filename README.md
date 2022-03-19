@@ -1,4 +1,4 @@
-# [CodeQuotient Web Development Projects](https://codequotient.com/)
+# 🎯 [CodeQuotient Web Development Projects](https://codequotient.com/)
 
 | Project      | GitHub Repo | Live Link     |
 | :---        |    :----:   |          ---: |
